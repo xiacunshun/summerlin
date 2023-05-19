@@ -46,9 +46,6 @@ a{ color: #c40b00; }
     border: #fff 5px solid;
     transition: transform 0.5s;
 }
-.sidebar .avatar:hover{
-    transform: rotate(1turn);
-}
 .sidebar .avatar img{
     border-radius: 100%;
 }
